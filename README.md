@@ -1,0 +1,2 @@
+# Deep-Learning-Models-for-Image-Classification-and-Predictive-Analysis
+This project implements deep learning models using neural networks and convolutional neural networks (CNNs) developed with TensorFlow/Keras and PyTorch. The models are trained on dataset to perform tasks such as classification and prediction, demonstrating data preprocessing, model training, evaluation, and performance optimization techniques.
